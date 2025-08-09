@@ -3,12 +3,12 @@ As part of my university coursework, I conducted a comprehensive internal cybers
 
 The audit focused on key areas such as:
 
-Network security
-Access control mechanisms
-Endpoint and application security
-Incident response preparedness
-Third-party/vendor risk
-Business continuity and disaster recovery
+ • Network security
+ • Access control mechanisms
+ • Endpoint and application security
+ • Incident response preparedness
+ • Third-party/vendor risk
+ • Business continuity and disaster recovery
 
 I identified critical security gaps and compliance issues that posed threats such as cyber attacks, data breaches, and financial fraud. Based on the findings, I developed a detailed security audit report and formulated a risk treatment plan to address vulnerabilities and enhance regulatory compliance.
 
